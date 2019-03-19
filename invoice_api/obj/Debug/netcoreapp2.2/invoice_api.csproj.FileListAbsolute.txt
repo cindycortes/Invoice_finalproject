@@ -1,0 +1,14 @@
+/Users/CC/Desktop/capstone_project/invoice_api/bin/Debug/netcoreapp2.2/invoice_api.deps.json
+/Users/CC/Desktop/capstone_project/invoice_api/bin/Debug/netcoreapp2.2/invoice_api.runtimeconfig.json
+/Users/CC/Desktop/capstone_project/invoice_api/bin/Debug/netcoreapp2.2/invoice_api.runtimeconfig.dev.json
+/Users/CC/Desktop/capstone_project/invoice_api/bin/Debug/netcoreapp2.2/invoice_api.dll
+/Users/CC/Desktop/capstone_project/invoice_api/bin/Debug/netcoreapp2.2/invoice_api.pdb
+/Users/CC/Desktop/capstone_project/invoice_api/obj/Debug/netcoreapp2.2/invoice_api.csprojAssemblyReference.cache
+/Users/CC/Desktop/capstone_project/invoice_api/obj/Debug/netcoreapp2.2/invoice_api.csproj.CoreCompileInputs.cache
+/Users/CC/Desktop/capstone_project/invoice_api/obj/Debug/netcoreapp2.2/invoice_api.RazorAssemblyInfo.cache
+/Users/CC/Desktop/capstone_project/invoice_api/obj/Debug/netcoreapp2.2/invoice_api.RazorAssemblyInfo.cs
+/Users/CC/Desktop/capstone_project/invoice_api/obj/Debug/netcoreapp2.2/invoice_api.AssemblyInfoInputs.cache
+/Users/CC/Desktop/capstone_project/invoice_api/obj/Debug/netcoreapp2.2/invoice_api.AssemblyInfo.cs
+/Users/CC/Desktop/capstone_project/invoice_api/obj/Debug/netcoreapp2.2/invoice_api.RazorTargetAssemblyInfo.cache
+/Users/CC/Desktop/capstone_project/invoice_api/obj/Debug/netcoreapp2.2/invoice_api.dll
+/Users/CC/Desktop/capstone_project/invoice_api/obj/Debug/netcoreapp2.2/invoice_api.pdb
